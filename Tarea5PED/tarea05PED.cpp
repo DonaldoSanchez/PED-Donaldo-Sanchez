@@ -218,14 +218,5 @@ int main(){
         }
     } while (opcion !=4);
     
-
-
-
-
-
-
-
-
-
     return 0;
 }
